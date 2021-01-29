@@ -1,2 +1,4 @@
-# arch-linux-config
-Different system configs
+# Arch Linux System Config for Productivity
+
+- Tmux Config
+- Zshrc Config
