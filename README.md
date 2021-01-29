@@ -1,4 +1,4 @@
-# Arch Linux System Config for Productivity
+# Linux System Config for Productivity
 
 - Tmux Config
 - Zshrc Config
